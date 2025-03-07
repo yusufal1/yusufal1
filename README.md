@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, C#**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, React-Native**
 
 - 💬 Ask me about **Web development**
 
